@@ -1,0 +1,9 @@
+{
+  "base_start": 1915, "base_end": 2009,
+  "latitude": 0.0, "longitude": 0.0,
+  "su_threshold": 25.0, "id_threshold": 0.0, "tr_threshold": 20.0, "fd_threshold": 0.0,
+  "rnn_threshold": 25.0,
+  "wet_day_threshold": 1.0, "min_spell": 6, "percentile_window": 5,
+  "quantile_type": 8, "bootstrap": true, "spell_span": "end_year",
+  "completeness": {"max_missing_month": 3, "max_missing_year": 15, "min_base_fraction": 0.7}
+}
